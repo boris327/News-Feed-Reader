@@ -1,0 +1,10 @@
+{
+  "name": "News Feed Reader",
+  "content_in_root": false,
+  "domains": ["sensor"],
+  "country": "IL",
+  "homeassistant": "2023.0.0",
+  "render_readme": true,
+  "zip_release": false,
+  "filename": "custom_components/news_feed_reader/__init__.py"
+}
