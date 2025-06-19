@@ -1,9 +1,0 @@
-{
-  "domain": "news_feed_reader",
-  "name": "News Feed Reader",
-  "documentation": "https://github.com/yourusername/news_feed_reader",
-  "dependencies": [],
-  "codeowners": ["@yourusername"],
-  "version": "1.0.0",
-  "requirements": ["feedparser"]
-}
